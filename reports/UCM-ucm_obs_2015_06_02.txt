@@ -1,0 +1,102 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:python institutioncode:UCM" ; Times: 1
+	Query: "crotalus concolor" ; Times: 7
+	Query: "phrynosoma douglasii" ; Times: 5
+	Query: "genus:drymarchon institutioncode:UCM" ; Times: 1
+	Query: "country:"Mexico" specificepithet:willardi genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "country:"Mexico" genus:Arizona mappable:1" ; Times: 1
+	Query: "Drymarchon melanurus country:"mexico"" ; Times: 1
+	Query: "snake country:"Mexico" class:Reptilia year <= 2015 mappable:1" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "UCM snake" ; Times: 1
+	Query: "genus:tantilla institutioncode:UCM" ; Times: 2
+	Query: "genus:lampropeltis institutioncode:UCM" ; Times: 1
+	Query: "genus:elaphe institutioncode:UCM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 976 download events in this period)
+Total number of records downloaded: 67 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 52
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "stateprovince:"Colorado" genus:Crotalus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 30
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 77
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 30
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 77
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
