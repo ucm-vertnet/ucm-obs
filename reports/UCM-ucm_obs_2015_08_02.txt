@@ -1,0 +1,106 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 8
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 5
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 5
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia Dolores Colorado" ; Times: 4
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "Reptilia moffat Colorado" ; Times: 4
+	Query: "crotalus concolor" ; Times: 2
+	Query: "Drymarchon couperi stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "phrynosoma cornutum year >= 1995 year <= 2015" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "Crotalus cerberus" ; Times: 6
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "stateprovince:"colorado" genus:tantilla class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "genus:drymarchon class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "specificepithet:willardi genus:crotalus class:reptilia year >= 1990 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1084 download events in this period)
+Total number of records downloaded: 70 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 55
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 6
+	Date: 2015-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "crotalus concolor" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 64
+Total number of records retrieved from searches: 74
+Number of download events that retrieved data from the resource: 53
+Total number of records downloaded: 168
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 64
+Total number of records retrieved from searches: 74
+Number of download events that retrieved data from the resource: 53
+Total number of records downloaded: 168
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
