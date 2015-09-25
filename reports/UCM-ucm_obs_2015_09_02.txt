@@ -1,0 +1,106 @@
+Report for Institution Code UCM, Resource Vertebrate observations
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-07 ; Times: 5
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 4
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis stateprovince:"Colorado" year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:tigris class:reptilia" ; Times: 1
+	Query: "Trimorphodon stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "willardi" ; Times: 1
+	Query: "liochlorophis stateprovince:"Colorado"" ; Times: 1
+	Query: "specificepithet:distans genus:Micrurus" ; Times: 2
+	Query: "(Crotalus AND cerberus)" ; Times: 1
+	Query: "Heterodon stateprovince:"Colorado" year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"colorado" genus:ambystoma" ; Times: 2
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "kennicott" ; Times: 1
+	Query: "Aspidoscelis tesselata" ; Times: 4
+	Query: "Colorado Aspidoscelis tesselata" ; Times: 1
+	Query: "terrapene ornata" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "stateprovince:"colorado" genus:liochlorophis" ; Times: 2
+	Query: "liochlorophis stateprovince:"Colorado" year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Georgia" genus:Drymarchon" ; Times: 1
+	Query: "aspidoscelis tesselata" ; Times: 3
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "photo voucher" ; Times: 1
+	Query: "stateprovince:"Kansas" genus:Lampropeltis year >= 2000 year <= 2015" ; Times: 1
+	Query: "arizona stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "class:Reptilia year >= 2014 year <= 2015" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1138 download events in this period)
+Total number of records downloaded: 25 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 19
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""photo voucher"" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "photo voucher" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 34
+Total number of records retrieved from searches: 51
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 25
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 34
+Total number of records retrieved from searches: 51
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 25
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
