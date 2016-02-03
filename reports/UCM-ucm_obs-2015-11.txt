@@ -1,0 +1,61 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-25 ; Times: 6
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:tesselata genus:Aspidoscelis institutioncode:UCM" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "crotalus willardi" ; Times: 6
+	Query: "crotalus cerberus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 751 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
