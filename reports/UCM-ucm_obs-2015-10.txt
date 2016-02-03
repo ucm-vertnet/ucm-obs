@@ -1,0 +1,56 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Willardi genus:Crotalus" ; Times: 1
+	Query: "Terrapene ornatA" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 823 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Terrapene" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Cnemidophorus tesselatus" ; Times: 2
+
+
+End of report.
