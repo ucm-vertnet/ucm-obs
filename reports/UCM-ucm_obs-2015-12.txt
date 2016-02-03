@@ -1,0 +1,75 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Switzerland ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-21 ; Times: 4
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia county:&#34;las animas&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Eumeces class:Reptilia county:&#34;las animas&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "terrapene ornata" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Marmota flaviventris year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 4
+	Query: "Drymarchon couperi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 889 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-17 ; Times: 4
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota flaviventris specificepithet:flaviventris genus:Marmota stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 2
+	Query: "Drymarchon melanurus" ; Times: 1
+
+
+End of report.
