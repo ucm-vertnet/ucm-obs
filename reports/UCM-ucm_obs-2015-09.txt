@@ -1,0 +1,79 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "North Park class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Crotalus willardi willardi 1" ; Times: 2
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "Aspidoscelis tesselata" ; Times: 7
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;Colorado&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1045 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "viperidae" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Micrurus mexico" ; Times: 1
+	Query: "Spea" ; Times: 2
+
+
+End of report.
