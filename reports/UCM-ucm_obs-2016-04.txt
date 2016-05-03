@@ -1,0 +1,61 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Arizona pacata" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "distance(location,geopoint(29.599036,-106.727516))&lt;15000" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "terrapene ornata" ; Times: 1
+	Query: "family:leptotyphlopidae institutioncode:UCM" ; Times: 2
+	Query: "genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 3
+	Query: "Crotalus willardi chihuahua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1312 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+
+
+End of report.
