@@ -1,0 +1,74 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 114
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-27 ; Times: 6
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 1985" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Drymarchon melanurus Sonora" ; Times: 1
+	Query: "specificepithet:obsoletus genus:eumeces hassex:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "&#34;Arizona elegans philipi&#34; utah" ; Times: 1
+	Query: "genus:drymarchon &#34;georgia&#34;" ; Times: 5
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Trachemys scripta elegans mappable:1" ; Times: 4
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 4
+	Query: "vntype:observation specificepithet:scripta genus:Trachemys continent:America basisofrecord:HumanObservation mappable:1" ; Times: 1
+	Query: "Micrurus distans Sonora" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1892 download events in this period)
+Total number of records downloaded: 173
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Italy ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "class:Mammalia institutioncode:UCM" ; Times: 2
+	Query: "Bassariscus" ; Times: 2
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "vntype:observation specificepithet:scripta genus:Trachemys continent:America basisofrecord:HumanObservation mappable:1" ; Times: 2
+
+
+End of report.
