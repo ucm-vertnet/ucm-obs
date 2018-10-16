@@ -1,0 +1,69 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 5
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "micrurus distans" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UCM" ; Times: 3
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UCM" ; Times: 3
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "liberty county drymarchon" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Mexico&#34; hasmedia:1" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:UCM" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UCM" ; Times: 3
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "whiptail lizards" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1178 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+
+
+End of report.
