@@ -1,0 +1,74 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: France ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 17
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "micrurus distans" ; Times: 4
+	Query: "maxwell colorado" ; Times: 6
+	Query: "specificepithet:distans genus:micrurus" ; Times: 1
+	Query: "crotalus concolor" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "field museum maxwell colorado" ; Times: 2
+	Query: "field museum maxwell" ; Times: 2
+	Query: "specificepithet:Couperi genus:Drymarchon" ; Times: 12
+	Query: "specificepithet: distans genus:micrurus" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1359 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+
+
+End of report.
