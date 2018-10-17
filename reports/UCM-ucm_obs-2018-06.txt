@@ -1,0 +1,68 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 28
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-28 ; Times: 4
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "willardi" ; Times: 1
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "specificepithet:couperi genus:drymarchon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "maxwell colorado" ; Times: 4
+	Query: "phrynosoma douglasii" ; Times: 2
+	Query: "colorado lizard" ; Times: 1
+	Query: "crotalus willardi" ; Times: 6
+	Query: "specificepithet:triangulum stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "north american lizard" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1169 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+
+
+End of report.
