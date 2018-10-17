@@ -1,0 +1,106 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 3
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-05 ; Times: 24
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Sonora&#34;" ; Times: 2
+	Query: "genus:Drymarchon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 7
+	Query: "checkered whiptail" ; Times: 1
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 3
+	Query: "crotalus willardi amabilis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "Drymarchon" ; Times: 1
+	Query: "crotalus willardi" ; Times: 19
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "Testudo graeca" ; Times: 1
+	Query: "lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus institutioncode:UCM" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1416 download events in this period)
+Total number of records downloaded: 233
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-05 ; Times: 3
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambelia" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "order:Caudata" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "Terrapene" ; Times: 1
+	Query: "crotalinae" ; Times: 1
+	Query: "checkered whiptail" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UCM" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+
+
+End of report.
