@@ -1,0 +1,60 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 108
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "drymarchon melanurus Sonora Mexico" ; Times: 1
+	Query: "Elaphe emoryi" ; Times: 1
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 1
+	Query: "Drymarchon melanurus melanurus" ; Times: 2
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "order:Squamata county:&#34;San Juan&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "gbifdatasetid:531ed831-f35f-4bd5-9d83-bf260fc8236d" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Drymarchon melanurus melanurus" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+
+
+End of report.
