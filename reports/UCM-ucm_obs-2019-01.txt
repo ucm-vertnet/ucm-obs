@@ -1,0 +1,57 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "UCM 7475" ; Times: 2
+	Query: "Bassariscus astutus vntype:observation" ; Times: 1
+	Query: "837 ornata" ; Times: 1
+	Query: "horned lizards" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 5
+	Query: "Bassariscus astutus basisofrecord:HumanObservation" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "Testudo graeca" ; Times: 1
+	Query: "family:colubridae locality:alamos country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidoclonion" ; Times: 1
+
+
+End of report.
