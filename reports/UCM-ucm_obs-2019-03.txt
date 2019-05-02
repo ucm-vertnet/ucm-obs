@@ -1,0 +1,58 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 8
+	Date: 2019-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Arizona pacata" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Tantilla hobartsmithi" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Hypsiglena jani" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Trimorphodon lyrophanes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1281 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "Arizona pacata" ; Times: 1
+
+
+End of report.
