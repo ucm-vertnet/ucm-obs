@@ -1,0 +1,88 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 541
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-18 ; Times: 5
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi chihuahua" ; Times: 4
+	Query: "Drymarchon couperi" ; Times: 11
+	Query: "Nerodia colorado" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 4
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 2
+	Query: "genus:tantilla class:reptilia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Sierra Del Nido hasmedia:1" ; Times: 1
+	Query: "specificepithet:emoryi stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "gbifdatasetid:531ed831-f35f-4bd5-9d83-bf260fc8236d" ; Times: 5
+	Query: "kinosternon bent" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 985 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aspidoscelis sexlineata" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+
+
+End of report.
