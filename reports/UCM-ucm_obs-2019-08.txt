@@ -1,0 +1,84 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-06 ; Times: 5
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-08 ; Times: 5
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 4
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 3
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus distans" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Sonora&#34;" ; Times: 3
+	Query: "Crotalus oreganus concolor" ; Times: 3
+	Query: "Warfel reptilia" ; Times: 1
+	Query: "warfel reptilia" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "crotalus willardi amabilis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Crotalus viridis concolor" ; Times: 1
+	Query: "Crotalus Amabilis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1034 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus distans" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Crotalus oreganus concolor" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Crotalus viridis concolor" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+
+
+End of report.
