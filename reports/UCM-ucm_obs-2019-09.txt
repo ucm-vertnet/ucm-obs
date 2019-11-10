@@ -1,0 +1,75 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 110
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-25 ; Times: 11
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-06 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi chihuahua" ; Times: 2
+	Query: "genus:Micrurus country:&#34;México&#34; year &gt;= 2004 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;COLORADO&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 10
+	Query: "crotalus willardi amabilis" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 11
+	Query: "class:REPTILIA stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 22
+	Query: "Crotalus Amabilis" ; Times: 2
+	Query: "genus:Micrurus country:&#34;México&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1073 download events in this period)
+Total number of records downloaded: 258
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 7
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;colorado&#34; institutioncode:UCM" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Reptilia Colorado" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+
+
+End of report.
