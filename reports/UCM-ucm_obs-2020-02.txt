@@ -1,0 +1,59 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "order:Squamata county:&#34;Isanti&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "spea intermontana hassex:1" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1023 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+
+
+End of report.
