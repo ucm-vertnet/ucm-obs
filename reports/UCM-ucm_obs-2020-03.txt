@@ -1,0 +1,73 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-08 ; Times: 3
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34; institutioncode:UCM" ; Times: 3
+	Query: "specificepithet:holbrooki genus:Lampropeltis" ; Times: 1
+	Query: "drymarchon georgia" ; Times: 3
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 853 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californiae genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "genus:Coluber" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:gentilis genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+
+
+End of report.
