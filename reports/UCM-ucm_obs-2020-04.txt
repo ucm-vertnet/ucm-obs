@@ -1,0 +1,75 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lampropeltis triangulum gentilis" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "Rena dissecta" ; Times: 1
+	Query: "vntype:observation genus:Rana" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Colorado&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1171 download events in this period)
+Total number of records downloaded: 115
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Australia ; Times: 2
+	Country: India ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-29 ; Times: 13
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "family:sciuridae hassex:1 hasmedia:1" ; Times: 2
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Rena dissecta" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+
+
+End of report.
