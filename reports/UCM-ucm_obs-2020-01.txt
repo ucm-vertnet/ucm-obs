@@ -1,0 +1,57 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 3
+	Query: "picta Chrysemys" ; Times: 4
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1584 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+
+
+End of report.
