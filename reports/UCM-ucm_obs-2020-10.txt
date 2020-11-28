@@ -1,0 +1,72 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-19 ; Times: 4
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana pipiens UCM" ; Times: 1
+	Query: "crotalus concolor" ; Times: 5
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "genus:Marmota institutioncode:UCM" ; Times: 2
+	Query: "Rana pipiens UCM Colorado" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 8
+	Query: "drymarchon" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "titus canyon" ; Times: 3
+	Query: "vntype:observation hastypestatus:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1521 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UCM" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "genus:Marmota institutioncode:UCM" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+
+
+End of report.
