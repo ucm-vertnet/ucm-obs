@@ -1,0 +1,82 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-07 ; Times: 9
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-10 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;15773.300917264583" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;29768" ; Times: 1
+	Query: "warfel colorado" ; Times: 6
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;100000" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;23665" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 1
+	Query: "colorado reptilia warfel" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;16205" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;21343" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;15773" ; Times: 1
+	Query: "Warfel reptilia" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "warfel timothy" ; Times: 1
+	Query: "joey kellner" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;100000" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;100000" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Warfel Colorado" ; Times: 4
+	Query: "invasive species" ; Times: 2
+	Query: "warfel" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:douglasii genus:phrynosoma" ; Times: 1
+
+
+End of report.
