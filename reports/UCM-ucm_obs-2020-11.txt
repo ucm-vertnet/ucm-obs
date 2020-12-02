@@ -1,0 +1,85 @@
+Report for Institution Code UCM, Resource ucm_obs
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 439
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-16 ; Times: 5
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-11 ; Times: 3
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-12 ; Times: 18
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "UCM Aspidoscelis tesselatus" ; Times: 1
+	Query: "Chrysemys picta Nebraska" ; Times: 1
+	Query: "UCM ASPIDOSCELIS NEOTESSELATUS" ; Times: 4
+	Query: "scientificname:Anaxyrus debilis" ; Times: 2
+	Query: "scientificname:Anaxyrus punctatus" ; Times: 1
+	Query: "UCM Aspidoscelis neotesselatus" ; Times: 15
+	Query: "UCM Aspidoscelis sexlineatus" ; Times: 1
+	Query: "whiptail lizard" ; Times: 2
+	Query: "vntype:observation hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "Rana pipiens UCM Colorado" ; Times: 1
+	Query: "Warfel colorado" ; Times: 2
+	Query: "scientificname:Scaphiopus couchii" ; Times: 4
+	Query: "UCM AC Aspidoscelis neotesselatus" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "Rana pipiens UCM" ; Times: 1
+	Query: "UCM AC" ; Times: 2
+	Query: "UCM AC 304" ; Times: 1
+	Query: "Rena dissecta" ; Times: 2
+	Query: "UCM Aspidoscelis neotesselatus AC" ; Times: 1
+	Query: "UCM Aspidoscelis AC" ; Times: 1
+	Query: "scientificname:Anaxyrus cognatus" ; Times: 2
+	Query: "Drymarchon" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 842 download events in this period)
+Total number of records downloaded: 95
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+
+
+End of report.
